@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+
+}
+
+main{
+
+}
+
+li{
+    display: inline;
+}
+img {
+    width: 200px;
+    height: 250px;
+}
+nav{
+    text-align: right;
+}
