@@ -13,6 +13,8 @@ font-size: 40px;
 }
 h2{
     font-size: 30px;
+    padding: 10px;
+    text-align: left;
 }
 
 body{
@@ -66,5 +68,8 @@ p{
 
 
 @media screen and (max-width: 768px) {
-    
+    p{
+        color: black;
+        
+    }
 }
