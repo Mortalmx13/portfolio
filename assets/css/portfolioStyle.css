@@ -31,3 +31,8 @@ nav{
     border-style: solid;
     color: lightblue;
 }
+
+
+@media screen and (max-width: 768px) {
+    
+}
