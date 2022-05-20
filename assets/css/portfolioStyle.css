@@ -73,3 +73,9 @@ p{
         
     }
 }
+
+@media screen and (max-width: 989px ) {
+    header{
+        background-color: chocolate;
+    }
+}
