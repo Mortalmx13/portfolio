@@ -5,7 +5,7 @@
 
 
 h1{
-
+text-align: center;
 }
 
 main{
@@ -19,6 +19,15 @@ img {
     width: 200px;
     height: 250px;
 }
-nav{
+div nav{
     text-align: right;
+}
+nav{
+    font-size: medium;
+}
+.work > img{
+    border-radius: 10px ;
+    border-width: 5px;
+    border-style: solid;
+    color: lightblue;
 }
