@@ -63,6 +63,7 @@ p{
     display: flex;
     flex-wrap: wrap;
     color: white;
+    text-indent: 10px;
 }
 
 
