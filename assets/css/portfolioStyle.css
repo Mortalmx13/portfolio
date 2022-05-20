@@ -1,28 +1,54 @@
 *{
     margin: 0;
     padding: 0;
+   
 }
 
-
+header{
+    background-color: yellow;
+}
 h1{
 text-align: center;
-font-size: xx-large;
+font-size: 40px;
+}
+h2{
+    font-size: 30px;
 }
 
-main{
-
+body{
+background-color: teal;
 }
 
 li{
     display: inline;
+    padding: 10px;
+    font-size: 20px;
 }
-img {
+.me {
     width: 200px;
     height: 250px;
+    margin-left: 100px;
+}
+.workimage {
+    
+    width: 300px;
+    height: 375px;
+    border-radius: 10px ;
+    border-width: 5px;
+    border-style: solid;
+    color: lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
 }
 .workimage:hover{
     position: relative;
-    top: -25px;
+    width: 400px;
+    height: 500px;
+    transform: rotate(20deg);
 
 }
 div nav{
@@ -31,12 +57,12 @@ div nav{
 nav{
     font-size: medium;
 }
-.work > img{
-    border-radius: 10px ;
-    border-width: 5px;
-    border-style: solid;
-    color: lightblue;
+p{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
 }
+
 
 
 @media screen and (max-width: 768px) {
