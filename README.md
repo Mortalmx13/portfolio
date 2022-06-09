@@ -13,6 +13,6 @@ This assignmant was designed to make a portfolio where there is a task to show t
 ![Portfolio](./assets/images/Portfolio.png)
 
 ## Resources
-- [Live Site](https://mortalmx13.github.io/seo-refactor/)
+- [Live Site](https://mortalmx13.github.io/portfolio/)
 
-- [Respository](https://github.com/Mortalmx13/seo-refactor)
+- [Respository](https://github.com/Mortalmx13/portfolio)
